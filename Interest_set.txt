@@ -1,0 +1,3 @@
+Interest = [12]*
+
+*Note:- This interest is applied on YEARLY basis (p.c.p.a.)
